@@ -1,0 +1,10 @@
+class Hello{
+	
+
+	public static vid main(String[] ars){
+		System.out.println("hii I'm Riyas");
+
+	}
+
+
+}
